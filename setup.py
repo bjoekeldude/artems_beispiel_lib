@@ -1,12 +1,10 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1' 
+VERSION = '0.0.2' 
 DESCRIPTION = 'Artems-Loesungs-Lib'
 LONG_DESCRIPTION = 'Libary mit Funktionen die Artems Problem loesen.'
 
-# Setting up
 setup(
-       # the name must match the folder name 'verysimplemodule'
         name="avhelper", 
         version=VERSION,
         author="Stephan Bökelmann",
