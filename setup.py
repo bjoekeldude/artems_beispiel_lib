@@ -25,3 +25,4 @@ setup(
             "Programming Language :: Python :: 3",
             "Operating System :: POSIX",
         ]
+)
